@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/* TRABALHO PRÁTICO 01 
+Leandro Lorenzon Leme do Prado Ribeiro */
+
 public class TP01EX01 {
 	
 	@SuppressWarnings("resource")
